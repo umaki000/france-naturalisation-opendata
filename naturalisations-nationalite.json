@@ -1,0 +1,138 @@
+[
+  {
+    "nationalite": "Maroc",
+    "naturalisations_2016_2026": 61906,
+    "rang_national": 1,
+    "part_femmes_pct": 46,
+    "part_hommes_pct": 54,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/maroc"
+  },
+  {
+    "nationalite": "Algérie",
+    "naturalisations_2016_2026": 55795,
+    "rang_national": 2,
+    "part_femmes_pct": 47,
+    "part_hommes_pct": 53,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/algerie"
+  },
+  {
+    "nationalite": "Tunisie",
+    "naturalisations_2016_2026": 27898,
+    "rang_national": 3,
+    "part_femmes_pct": 45,
+    "part_hommes_pct": 55,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/tunisie"
+  },
+  {
+    "nationalite": "Cameroun",
+    "naturalisations_2016_2026": 15067,
+    "rang_national": 4,
+    "part_femmes_pct": 59,
+    "part_hommes_pct": 41,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/cameroun"
+  },
+  {
+    "nationalite": "Sénégal",
+    "naturalisations_2016_2026": 13344,
+    "rang_national": 5,
+    "part_femmes_pct": 45,
+    "part_hommes_pct": 55,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/senegal"
+  },
+  {
+    "nationalite": "Côte d'Ivoire",
+    "naturalisations_2016_2026": 13154,
+    "rang_national": 6,
+    "part_femmes_pct": 54,
+    "part_hommes_pct": 46,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/cote-ivoire"
+  },
+  {
+    "nationalite": "Royaume-Uni",
+    "naturalisations_2016_2026": 10241,
+    "rang_national": 7,
+    "part_femmes_pct": 55,
+    "part_hommes_pct": 45,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/royaume-uni"
+  },
+  {
+    "nationalite": "Roumanie",
+    "naturalisations_2016_2026": 9755,
+    "rang_national": 8,
+    "part_femmes_pct": 61,
+    "part_hommes_pct": 39,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/roumanie"
+  },
+  {
+    "nationalite": "Mali",
+    "naturalisations_2016_2026": 7847,
+    "rang_national": 9,
+    "part_femmes_pct": 40,
+    "part_hommes_pct": 60,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/mali"
+  },
+  {
+    "nationalite": "Guinée",
+    "naturalisations_2016_2026": 7024,
+    "rang_national": 10,
+    "part_femmes_pct": 37,
+    "part_hommes_pct": 63,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/guinee"
+  },
+  {
+    "nationalite": "Liban",
+    "naturalisations_2016_2026": 6728,
+    "rang_national": 11,
+    "part_femmes_pct": 47,
+    "part_hommes_pct": 53,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/liban"
+  },
+  {
+    "nationalite": "Russie",
+    "naturalisations_2016_2026": 6360,
+    "rang_national": 12,
+    "part_femmes_pct": 66,
+    "part_hommes_pct": 34,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/russie"
+  },
+  {
+    "nationalite": "Haïti",
+    "naturalisations_2016_2026": 6318,
+    "rang_national": 13,
+    "part_femmes_pct": 60,
+    "part_hommes_pct": 40,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/haiti"
+  },
+  {
+    "nationalite": "République démocratique du Congo",
+    "naturalisations_2016_2026": 6183,
+    "rang_national": 14,
+    "part_femmes_pct": 56,
+    "part_hommes_pct": 44,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/rd-congo"
+  },
+  {
+    "nationalite": "Turquie",
+    "naturalisations_2016_2026": 6052,
+    "rang_national": 17,
+    "part_femmes_pct": 49,
+    "part_hommes_pct": 51,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/turquie"
+  },
+  {
+    "nationalite": "Portugal",
+    "naturalisations_2016_2026": 3604,
+    "rang_national": 22,
+    "part_femmes_pct": 53,
+    "part_hommes_pct": 47,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/portugal"
+  },
+  {
+    "nationalite": "Chine",
+    "naturalisations_2016_2026": 1958,
+    "rang_national": 44,
+    "part_femmes_pct": 56,
+    "part_hommes_pct": 44,
+    "fiche_pays_url": "https://france-naturalisation.net/guide/nationalite/chine"
+  }
+]
